@@ -1,0 +1,17 @@
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\bin\Debug\TemperatureAlertSystem.Domain.dll
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\bin\Debug\TemperatureAlertSystem.Domain.pdb
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\obj\Debug\TemperatureAlertSystem.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\obj\Debug\TemperatureAlertSystem.Domain.dll
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\obj\Debug\TemperatureAlertSystem.Domain.pdb
+G:\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\bin\Debug\TemperatureAlertSystem.Domain.dll
+G:\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\bin\Debug\TemperatureAlertSystem.Domain.pdb
+G:\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\bin\Debug\OpenHardwareMonitorLib.dll
+G:\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\obj\Debug\TemperatureAlertSystem.Domain.csprojResolveAssemblyReference.cache
+G:\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\obj\Debug\TemperatureAlertSystem.Domain.dll
+G:\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\obj\Debug\TemperatureAlertSystem.Domain.pdb
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\bin\Debug\TemperatureAlertSystem.Domain.dll
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\bin\Debug\TemperatureAlertSystem.Domain.pdb
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\obj\Debug\TemperatureAlertSystem.Domain.dll
+C:\Users\Kevin\Downloads\TemperatureAlertSystem-master\TemperatureAlertSystem.Domain\obj\Debug\TemperatureAlertSystem.Domain.pdb
