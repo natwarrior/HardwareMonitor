@@ -1,0 +1,12 @@
+"System Idle Process"
+Idle
+explorer.exe
+taskmgr.exe
+lsass.exe
+csrss.exe
+smss.exe
+winlogon.exe
+svchost.exe
+services.exe
+Core Temp
+_Total
